@@ -30,9 +30,6 @@ PhiFin One displays ads provided by third-party ad networks.
 
 These networks may use cookies or device identifiers to provide personalized ads.
 
-Please review Google AdMob Privacy Policy
- for more details on how advertising data is handled.
-
 5. Data Sharing
 
 We do not sell, rent, or share your personal data with any third party.
