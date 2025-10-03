@@ -34,6 +34,6 @@ The App is not directed towards children under the age of 13.
 
 We do not knowingly collect any information from children.
 
-7. Changes to This Policy
+6. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Any changes will be reflected in this document, and the “Effective Date” will be updated accordingly.
