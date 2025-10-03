@@ -24,17 +24,11 @@ The App does not request any sensitive permissions (such as location, contacts, 
 
 No external access to your device data is required for the App to function.
 
-4. Advertisements
-
-PhiFin One displays ads provided by third-party ad networks.
-
-These networks may use cookies or device identifiers to provide personalized ads.
-
-5. Data Sharing
+4. Data Sharing
 
 We do not sell, rent, or share your personal data with any third party.
 
-6. Children’s Privacy
+5. Children’s Privacy
 
 The App is not directed towards children under the age of 13.
 
