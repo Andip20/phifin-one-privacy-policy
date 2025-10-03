@@ -1,6 +1,6 @@
 Privacy Policy for PhiFin One
 
-Effective Date: 01-10-2025
+Effective Date: 03-10-2025
 
 PhiFin One (“the App”) respects your privacy. This Privacy Policy explains how we handle your information.
 
